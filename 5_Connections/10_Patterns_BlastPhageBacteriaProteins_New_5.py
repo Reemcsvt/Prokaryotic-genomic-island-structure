@@ -142,4 +142,4 @@ with open(Filtering+'Patterns_Filtering_Information_New_5.txt', 'r') as f: #Test
          os.remove('File1.fa'); os.remove('File2.fa'); os.remove('Blast_Result.txt');
          
          #################################
-
+ 
