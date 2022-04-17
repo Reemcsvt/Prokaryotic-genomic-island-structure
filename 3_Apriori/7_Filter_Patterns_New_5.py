@@ -135,7 +135,7 @@ for i in range(0,len(Patterns)):
            PatternsGenusMatrix.write(str(k)+' ')
        PatternsGenusMatrix.write('\n')     
         
-       
+        
        
        
        
