@@ -1,7 +1,7 @@
 # GenomicIslands_Prokaryotic
 
 
-This page contains the codes that was used in "Connecting Genomic Islands across Prokaryotic and Phage Genomes via Protein Families" paper.
+This page contains all the Python codes that was used in "Connecting Genomic Islands across Prokaryotic and Phage Genomes via Protein Families" paper.
 
 Reem Aldaihani, Lenwood Heath
 
